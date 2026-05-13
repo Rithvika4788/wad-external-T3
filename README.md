@@ -1,4 +1,4 @@
-<img width="1295" height="802" alt="delete-student" src="https://github.com/user-attachments/assets/bb710fd8-0f6c-417d-84f1-1763af9971d9" />STUDENT API CRUD OPERATIONS
+STUDENT API CRUD OPERATIONS
 
 1. Check the Running Status
 <img width="1291" height="803" alt="running_status" src="https://github.com/user-attachments/assets/bd1531da-eddc-42e1-8af0-8984442ab9d5" />
